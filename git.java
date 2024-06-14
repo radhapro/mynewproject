@@ -8,6 +8,6 @@ public class AddTwoNumbers {
         int sum = num1 + num2;
 
         // Display the result
-        System.out.println("my change 2nd time  ");
+        System.out.println("my ans is 30 whisch sum of 10 nad 20 ");
     }
 }
