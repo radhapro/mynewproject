@@ -8,6 +8,6 @@ public class AddTwoNumbers {
         int sum = num1 + num2;
 
         // Display the result
-        System.out.println("The sum of ");
+        System.out.println("my change 2nd time  ");
     }
 }
